@@ -7,10 +7,10 @@ Gunakan file ini untuk melacak progress belajarmu. Centang `[x]` jika sudah sele
 - [x] **00-Persiapan**
   - [x] Setup Environment (Node.js, VS Code)
   - [x] Hello World (Console & Terminal)
-- [ ] **01-Dasar-JavaScript**
-  - [ ] Variabel & Tipe Data
-  - [ ] _Deep Dive_: Type Coercion (`==` vs `===`)
-  - [ ] _Deep Dive_: Scope & Hoisting (TDZ)
+- [x] **01-Dasar-JavaScript**
+  - [x] Variabel & Tipe Data
+  - [x] _Deep Dive_: Type Coercion (`==` vs `===`)
+  - [x] _Deep Dive_: Scope & Hoisting (TDZ)
 - [ ] **02-Logika-Percabangan**
   - [ ] If/Else, Switch, Loops
   - [ ] _Deep Dive_: Short-Circuit (`&&`, `||`, `??`)
