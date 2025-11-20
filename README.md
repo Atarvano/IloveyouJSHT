@@ -59,6 +59,14 @@ Gunakan file ini untuk melacak progress belajarmu. Centang `[x]` jika sudah sele
 - [ ] **13-Tooling-Bundling**
   - [ ] AST & Bundlers Concept
 
+## 🟤 Tahap 5: Computer Science (LeetCode)
+
+- [ ] **14-DSA-Algoritma**
+  - [ ] Big O Notation
+  - [ ] Linear (Stack, Queue, Linked List)
+  - [ ] Trees & Graphs (BFS/DFS)
+  - [ ] Dynamic Programming
+
 ## 🏆 Final Projects (Pembuktian)
 
 - [ ] **Tugas 01**: Web Interaktif (Clean Code Refactor)
