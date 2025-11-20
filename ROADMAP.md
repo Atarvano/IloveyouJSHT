@@ -48,5 +48,17 @@ Ini adalah kurikulum **ULTIMATE**. Tujuannya bukan cuma bikin kamu bisa pakai JS
 
 ---
 
+## 🔮 Future Expansion (Disimpan untuk Nanti)
+
+Materi berikut disimpan dulu (biar hemat RAM):
+
+- **15-TypeScript-Foundation**
+- **16-TypeScript-Advanced**
+- **17-Testing-Engineering**
+- **18-NodeJS-Runtime**
+- **19-Functional-Programming-Deep**
+
+---
+
 **Saran Belajar:**
 Jangan buru-buru. Materi "Deep Dive" itu berat. Kalau pusing, istirahat dulu. Pahami konsepnya, jangan cuma hafal syntax.
