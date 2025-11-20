@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Search App</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        input {
+            padding: 10px;
+            width: 60%;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background: #e50914;
+            color: white;
+            border: none;
+        }
+
+        .movie-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 30px;
+            gap: 20px;
+        }
+
+        .card {
+            background: #333;
+            width: 200px;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .card h3 {
+            font-size: 16px;
+            margin: 10px 0 5px;
+        }
+
+        .card p {
+            color: #aaa;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Cari Film Favoritmu</h1>
+    <input type="text" id="search-input" placeholder="Contoh: Avengers, Batman...">
+    <button id="search-btn">Cari</button>
+
+    <div class="movie-container" id="movie-container">
+        <!-- Film akan muncul di sini -->
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
