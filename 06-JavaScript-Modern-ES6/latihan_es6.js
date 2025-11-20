@@ -17,3 +17,4 @@ const kelas = "Web Dasar";
 // 3. Gunakan Destructuring untuk mengambil 'nama' dan 'kota' dari object ini.
 const profil = { nama: "Joko", kota: "Surabaya", hobi: "Mancing" };
 // Tulis kodemu di bawah ini:
+
