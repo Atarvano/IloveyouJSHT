@@ -2,8 +2,9 @@
 // Materi: 02-Type-Coercion.md
 
 // 1. Apa hasil dari kode berikut? (Tulis di komentar)
-// console.log(5 == "5");  // ?
-// console.log(5 === "5"); // ?
+// console.log(5 == "5");  // ? true
+// console.log(5 === "5"); // ? false
+//
 
 // 2. Buat kondisi IF yang memanfaatkan 'Truthy' value dari sebuah string kosong.
 let pesan = "";
@@ -16,4 +17,4 @@ if (pesan) {
 
 // 3. Coba jumlahkan string "10" dengan angka 20. Apa hasilnya?
 let hasil = "10" + 20;
-console.log(hasil); // Prediksi: ...
+console.log(hasil); // Prediksi: ...1020
