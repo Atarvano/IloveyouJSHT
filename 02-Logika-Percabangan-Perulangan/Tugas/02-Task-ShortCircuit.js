@@ -3,7 +3,8 @@
 
 // 1. Gunakan operator OR (||) untuk memberikan nilai default.
 let namaUser = ""; // Kosong
-let namaDisplay = namaUser || "Tamu"; 
+
+let namaDisplay = namaUser || "Tamu";
 console.log(namaDisplay); // Harusnya "Tamu"
 
 // 2. Gunakan operator AND (&&) untuk menjalankan fungsi HANYA JIKA kondisi true.
@@ -14,3 +15,11 @@ function tampilkanDashboard() {
 
 // Tulis satu baris kode pakai &&
 // isLogin && ...
+
+if (isLogin && namaUser == "") {
+  console.log("Silakan login terlebih dahulu.");
+} else if (islogin && namaUser == "John Doe") {
+  console.log("Selamat datang, John Doe!");
+} else {
+  console.log("Anda tidak memiliki akses.");
+}
