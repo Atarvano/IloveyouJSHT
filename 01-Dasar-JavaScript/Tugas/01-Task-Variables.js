@@ -6,8 +6,8 @@
 // 3. Buat variabel 'boolean' apakah kamu suka kopi atau tidak.
 
 // Tulis kodemu di sini:
-const namaLengkap = "Isi Nama Disini";
-let umur = 0;
+const namaLengkap = "Irvani Heldy Fauzan";
+let umur = 18;
 let sukaKopi = true;
 
 console.log(namaLengkap, umur, sukaKopi);
