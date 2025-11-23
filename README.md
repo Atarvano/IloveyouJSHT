@@ -13,7 +13,7 @@ Gunakan file ini untuk melacak progress belajarmu. Centang `[x]` jika sudah sele
   - [x] _Deep Dive_: Scope & Hoisting (TDZ)
 - [x] **02-Logika-Percabangan**
   - [x] If/Else, Switch, Loops
-  - [ ] _Deep Dive_: Short-Circuit (`&&`, `||`, `??`)
+  - [x] _Deep Dive_: Short-Circuit (`&&`, `||`, `??`)
   - [ ] _Deep Dive_: Error Handling (Try/Catch/Throw)
 - [ ] **03-Fungsi-Modular**
   - [ ] Function Basics
