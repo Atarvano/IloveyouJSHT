@@ -23,3 +23,9 @@ if (isLogin && namaUser == "") {
 } else {
   console.log("Anda tidak memiliki akses.");
 }
+
+// short circuit login
+let noris = "WDC";
+let wdc = noris && "Juara WDC";
+
+console.log(wdc);
