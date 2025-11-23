@@ -37,6 +37,7 @@ Memanipulasi bit (biner) langsung. Jarang dipakai di web biasa, tapi sering di l
 
 Contoh penggunaan: Flags / Permission System.
 ```javascript
+
 const READ = 1;   // 001
 const WRITE = 2;  // 010
 const EXECUTE = 4;// 100
